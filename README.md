@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=FFFFFF&lines=Hi+there!+I'm+Steve.+🚀)
 
-👋 I'm a software developer with 5 years experienced in Desktop Application. I'm a self-driven and passionate blockchain technology. 
+👋 I'm a self-driven and passionate to be a web3 developer.
 
 ## 📚 Experience
 
