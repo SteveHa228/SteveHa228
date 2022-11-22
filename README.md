@@ -35,6 +35,3 @@
 ### 🤝 Collaboration
 
 I believe that collaborating on projects is a great way to learn from each other and build up experience; feel free to hit me up on Discord (Stack#6853) or email me at [steveha2802@gmail.com](mailto:steveha2802@gmail.com) if you want to work on a project together.
-
-### 📢 Socials
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/SteveHa28)
