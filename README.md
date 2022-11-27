@@ -4,10 +4,8 @@
 
 ## 📚 Experience
 
-- MERN stack. 
-- Implement smart contract on Ethereum, Near.
-- Build cross-chain NFT Marketplace.
-- web2 to web3.
+- C++/Nodejs 
+- Build dApps on Ethereum, Near.
 
 <hr />
 
