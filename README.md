@@ -4,7 +4,6 @@
 
 ## 📚 Experience
 
-- C++/Nodejs 
 - Build dApps on Ethereum, Near.
 
 <hr />
