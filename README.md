@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=FFFFFF&lines=Hi+there!+I'm+Steve.+🚀)
 
-👋 I'm a self-driven and passionate to be a web3 developer.
+👋 I'm a self-driven and passionate about distributed system and blockchain technology.
 
 ## 📚 Experience
 
@@ -24,7 +24,3 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <hr />
-
-### 🤝 Collaboration
-
-I believe that collaborating on projects is a great way to learn from each other and build up experience; feel free to hit me up on Discord (Stack#6853) or email me at [steveha2802@gmail.com](mailto:steveha2802@gmail.com) if you want to work on a project together.
