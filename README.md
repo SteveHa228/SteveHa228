@@ -4,8 +4,9 @@
 
 ## 📚 Experience
 
-- Backend development.
-- Build dApps on Ethereum, Near.
+- Backend & Client development.
+- System programming.
+- Build web3 apps on Ethereum/Near blockchain.
 
 <hr />
 
