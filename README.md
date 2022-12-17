@@ -5,7 +5,7 @@
 ## 📚 Experience
 
 - Backend & Client development.
-- System programming.
+- System && network programming.
 - Build web3 apps on Ethereum/Near blockchain.
 
 <hr />
