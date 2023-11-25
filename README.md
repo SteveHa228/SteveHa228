@@ -2,7 +2,7 @@
 
 ## 📚 Experience
 
-- C++ developer
+- C/C++ developer
 
 <hr />
 
